@@ -1,0 +1,107 @@
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe.config
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.pdb
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\WebDriver.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\WebDriver.xml
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csprojAssemblyReference.cache
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.CopyComplete
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.exe
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.pdb
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\x86\liblept1753.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\x86\libtesseract3052.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\x64\liblept1753.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\x64\libtesseract3052.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\Tesseract.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\WebDriver.Support.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\WebDriver.Support.xml
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\quaestum\source\repos\PrefeituraLoja2\PrefeituraLoja2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x86\liblept1753.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x86\libtesseract3052.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x64\liblept1753.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x64\libtesseract3052.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe.config
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.pdb
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Tesseract.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.Support.dll
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.xml
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.Support.xml
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csprojAssemblyReference.cache
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.CopyComplete
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.exe
+C:\Users\quaestum\Documents\GitHub\TESTE\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.pdb
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x86\liblept1753.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x86\libtesseract3052.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x64\liblept1753.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\x64\libtesseract3052.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe.config
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.pdb
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Tesseract.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.Support.dll
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.xml
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\bin\Debug\WebDriver.Support.xml
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csprojAssemblyReference.cache
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.CopyComplete
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.exe
+C:\Users\hidek\Desktop\Quaestomation\ExemploNavWeb\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.pdb
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x86\liblept1753.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x86\libtesseract3052.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x64\liblept1753.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x64\libtesseract3052.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe.config
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.pdb
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Tesseract.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.Support.dll
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.xml
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.Support.xml
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csprojAssemblyReference.cache
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.CopyComplete
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.exe
+C:\Users\02.quaestum\Documents\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.pdb
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x86\liblept1753.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x86\libtesseract3052.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x64\liblept1753.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\x64\libtesseract3052.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe.config
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.exe
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\PrefeituraLoja2.pdb
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Tesseract.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.Support.dll
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.xml
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\bin\Debug\WebDriver.Support.xml
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csprojAssemblyReference.cache
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.CopyComplete
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.exe
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.pdb
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.csproj.GenerateResource.cache
+C:\Users\fiscal.robo\Documents\GitHub\Comercial_Robos\Prefeituras Selenium\Arujá\PrefeituraLoja2\obj\Debug\PrefeituraLoja2.Form1.resources
